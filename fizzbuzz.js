@@ -19,7 +19,6 @@ let multi3 =
 console.log(multi3)
 fizzbuzz(n + 1)
 }else{
-  console.log("finish")
   return
 }
 }
